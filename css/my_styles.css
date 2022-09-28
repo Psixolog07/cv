@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(rgb(227, 227, 241), rgb(215, 215, 222));
+}
+
+.photo {
+  width: 400px;
+  height: 500px;
+  border-radius: 150px;
+  border: solid 3px;
+  padding: 3px;
+  background-color: black;
+}
